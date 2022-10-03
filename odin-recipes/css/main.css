@@ -1,0 +1,58 @@
+
+    div{background-color:rgba(118, 235, 177, 0.712);
+        border-width: 25px;
+        margin: -8px;
+    border-color: rgba(118, 235, 177, 0.712);
+    border-style: solid;}
+    first{border-width: 25px;
+    border-color: rgba(118, 235, 177, 0.712);
+    border-style: solid;
+    margin: auto;
+    margin-left: -24px;
+    }
+p{border-bottom: 50px salmon;}
+first{font-size :"1515px"; }
+krabby{font-size: 125px;}
+
+
+
+
+.title{text-align: center;}
+
+
+.black{color: black;}
+
+
+
+
+div{background-color:rgba(227, 235, 118, 0.712);
+    border-width: 25px;
+border-color: rgba(227, 235, 118, 0.712);
+border-style: solid;
+;
+}
+.ingredients{font-size: 25px;
+            color: rgb(11, 100, 41);
+            text-align: center;
+            margin-left: 500px;
+           margin-right: 500px;
+            border-color: rgb(11, 100, 41);
+            border: 10px outset rgb(11, 100, 41);}
+.lii{
+    color: rgb(52, 53, 14);
+   text-align: center;
+    
+    left: 50px;
+}
+.instruction{
+    font-size: 25px;
+            color: rgb(11, 100, 41);
+            text-align: center;
+
+           margin-left: 500px;
+           margin-right: 500px;
+            border-color: rgb(11, 100, 41);
+            border: 10px outset rgb(11, 100, 41);}
+.the{        color: rgb(52, 53, 14);
+    position:relative;
+    left: 5px;}
